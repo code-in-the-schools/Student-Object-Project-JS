@@ -1,20 +1,24 @@
 console.log("Zachiah's Experiments in JavaScript");
 
+//experiments with variables
 var x = 3;
 var z = 5;
 console.log (x+z);
 
 console.log(5*3);
 
+//experiments with strings
 var txt1 = "What a very ";
 txt1 += "nice day!";
 console.log(txt1);
 
+//experiments with values
 var rectangle = {
   width: 20, height: 50
 }
 console.log(rectangle);
 
+//experiments with console logging the date
 var b = 2020;
 var c = "July "
 console.log (c + b)
